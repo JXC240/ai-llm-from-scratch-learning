@@ -19,6 +19,12 @@ AI 如何帮助学生学习 LLM 这类高门槛复杂技术，并让学习过程
 - AI 作用：AI 五角色协议、AI 发现误解案例、AI 辅助调试案例、AI 错误验证案例。
 - 推广价值：提示词模板、学习日志模板、bug 记录模板、同伴试用反馈。
 
+## 当前任务入口
+
+- 第 0 周第 1 天学习包：[01_baseline/day01_baseline_learning_packet.md](01_baseline/day01_baseline_learning_packet.md)
+- 第 0 周第 1 天记录：[02_learning_journey/week00_day01_baseline.md](02_learning_journey/week00_day01_baseline.md)
+- 每日监督记录：[06_evidence_tables/daily_supervision_log.md](06_evidence_tables/daily_supervision_log.md)
+
 ## 评委快速阅读路径
 
 | 阅读时间 | 推荐阅读材料 | 可快速判断 |
@@ -61,4 +67,3 @@ public_report/
 ## AI 使用原则
 
 AI 在本项目中被定位为学习支架，而不是替代学习者完成任务的工具。所有关键结论必须经过课程内容、代码运行或实验结果验证。
-
