@@ -22,6 +22,7 @@ AI 如何帮助学生学习 LLM 这类高门槛复杂技术，并让学习过程
 ## 当前任务入口
 
 - 第 0 周第 1 天学习包：[01_baseline/day01_baseline_learning_packet.md](01_baseline/day01_baseline_learning_packet.md)
+- 第 0 周第 2 天学习包：[01_baseline/day02_environment_materials_packet.md](01_baseline/day02_environment_materials_packet.md)
 - 第 0 周第 1 天记录：[02_learning_journey/week00_day01_baseline.md](02_learning_journey/week00_day01_baseline.md)
 - 每日监督记录：[06_evidence_tables/daily_supervision_log.md](06_evidence_tables/daily_supervision_log.md)
 

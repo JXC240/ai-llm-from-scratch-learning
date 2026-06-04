@@ -4,8 +4,10 @@
 |---|---|---|---|
 | 项目设计 | `00_project_design/` | 研究问题、AI 角色、边界、伦理与测评设计 | 待持续完善 |
 | 第 0 周第 1 天学习包 | `01_baseline/day01_baseline_learning_packet.md` | 明确基线采集日任务、资料、规则和监督方式 | 已准备 |
+| 第 0 周第 2 天学习包 | `01_baseline/day02_environment_materials_packet.md` | 明确环境与资料定位任务、视频/仓库入口和记录方式 | 已准备 |
 | 每日监督记录 | `06_evidence_tables/daily_supervision_log.md` | 记录每天任务完成、AI 介入和 GitHub 同步情况 | 待持续更新 |
 | 前测 | `01_baseline/pre_test.md` | 学习起点与初始理解水平 | 待作答 |
+| 前测 AI 诊断 | `01_baseline/pre_test_ai_diagnosis.md` | 记录前测得分、主要盲区和后续学习优先级 | 已完成 |
 | 学习习惯基线 | `01_baseline/learning_habit_baseline.md` | 传统学习方式与痛点 | 待填写 |
 | 初始知识图谱 | `07_knowledge_maps/week0_initial_map.md` | 学习前的理解结构 | 待绘制 |
 | 周学习日志 | `02_learning_journey/` | 学习过程是否连续、真实发生 | 待每周填写 |
